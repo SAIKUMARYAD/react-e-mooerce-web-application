@@ -1,1 +1,1 @@
-# react-e-mooerce-web-application
+# react-e-commerce-web-application
